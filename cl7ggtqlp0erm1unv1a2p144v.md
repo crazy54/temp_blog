@@ -2,7 +2,7 @@
 
 ## Here We Go Again...
 
-Any time I see a blog post that tells me I am going to read its contents and then become some insanely productive sysadmin/engineer/developer. However, 9 of 10 of the recommendations are garbage and I can typically already perform tasks quicker than without moving to the suggested tool. I leave the article feeling like I got click baited and I go on with my day without becoming a superhero as I was promised. 
+Any time I see a blog post that tells me I am going to read its contents and then become some insanely productive sysadmin/engineer/developer I immediately get ready to tune out and turn off. However, 9 of 10 of the recommendations are garbage and I can typically already perform tasks quicker than without moving to the suggested tool. I leave the article feeling like I got click baited and I go on with my day without becoming a superhero as I was promised. 
 
 My hope for the article here is to give you practical advise that can save you time in your daily work. I am not trying to make you superman - to do that you have to keep on leveling up your skillsets. The items listed here are just nice things to use in a terminal. I do use Powershell for things at home but at work and at home my primary shell is ZSH as it is the gold standard these days. You can pimp it out to whatever level you please or you can leave it bone stock and enjoy the features that are built in from a bone stock config. 
 
