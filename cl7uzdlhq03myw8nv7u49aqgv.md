@@ -176,6 +176,8 @@ If you're in the market for a CIS backed operating system to run k8s on, this is
 
 [Click Here to Get the CIS Benchmark for Bottlerocket]() 
 
+EKS Anywhere is a cool idea but maybe not useful to everyone. If you want to manage all your k8s clusters in EKS and related tooling (eksctl/CDK/CFN) then look at EKS Anywhere. It basically allows you to install a version of EKS locally or on-prem, heck, even in Azure if you want. Then you can deploy and manage it in the AWS EKS console and related tools. If you want to understand EKS read that section above! 
+
 # Conclusion & Final Thoughts
 
 
