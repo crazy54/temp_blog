@@ -2,7 +2,7 @@
 
 ## What Happened?
 
-The **Storage Networking Industry Association** (SNIA) has completed the very first official specification of a new breed of storage devices. If NAND chipmakers can innovate at the rate and level they have expressed, boy, we're in for some truely new bits of kit that will change compute as much, if not ***more so*** than when the first solid state drive was introduced back in 1995 by the Israeli firm **M-Systems**. They launched the modern flash-based SSD with its Fast Flash Disk (FFD-350) series that used the 3.5 inch form factor, which is why it was named FFD-350.
+The **Storage Networking Industry Association** (SNIA) has completed the very first official specification of a new breed of storage devices. If NAND chipmakers can innovate at the rate and level they have expressed, boy, we're in for some truly new bits of kit that will change compute as much, if not ***more so*** than when the first solid state drive was introduced back in 1995 by the Israeli firm **M-Systems**. They launched the modern flash-based SSD with its Fast Flash Disk (FFD-350) series that used the 3.5 inch form factor, which is why it was named FFD-350.
 
 Enter **CSxes:** **Computational Storage Devices**
 
