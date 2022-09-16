@@ -121,7 +121,7 @@ Fargate can also take advantage of Spot on Linux containers. This is a big deal 
 
 Next up, Kubernetes. 
 
-So I want to clear this up. I see too many people who do not know why the abbreviation is K8s! ***This is the abbreviation of kubernetes because the word has 8 letters you leave out when using k8s.***
+So I want to clear this up. I see too many people who do not know why the abbreviation is K8s! ***This is the abbreviation of kubernetes because the word has a total of 8 letters you leave out when using k8s abbreviation.*** Now you know!
 
 ***The more you know...🌈✨***
 
