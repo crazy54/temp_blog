@@ -1,6 +1,6 @@
 ## It's Real: RTX 4000 Series Cards & More!
 
-If you have been under a rock for the last 6 months, well, you are in for a surprise. NVIDIA has had their RTX 40 Series Launch Event today (STREAM IT HERE) and boy it sure did not disappoint. I am going to cover the main points from the stream, and summarize the stuff you need to know. Sadly, I am not able to help you get your hands on a fresh new Ada-based GPU, but hey,  if you want to send me one, I would love to have it. 
+If you have been under a rock for the last 6 months, well, you are in for a surprise. NVIDIA has had their RTX 40 Series Launch Event today ([STREAM IT HERE](https://www.youtube.com/watch?v=D-Xt-btXqeo&ab_channel=RobeytechLive)) and boy it sure did not disappoint. I am going to cover the main points from the stream, and summarize the stuff you need to know. Sadly, I am not able to help you get your hands on a fresh new Ada-based GPU, but hey,  if you want to send me one, I would love to have it. 
 
 **Let's Go. **
 ## Ada Lovelace 3rd Gen RTX Cores Power RTX 40 Series GPUs
