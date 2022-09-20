@@ -5,7 +5,7 @@ If you have been under a rock for the last 6 months, well, you are in for a surp
 **Let's Go. **
 ## Ada Lovelace 3rd Gen RTX Cores Power RTX 40 Series GPUs
 
-![perfcore](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/news/rtx-40-series-graphics-cards-announcements/nvidia-ada-lovelace-geforce-rtx-40-series-architecture.jpg align="center")
+![Screenshot 2022-09-20 123250.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663695180464/FZRY71o3H.png align="center")
 
 It's no secret. NVIDIA has been the leader in the GPU game for the last decade and a half - the speed of innovation paired with advances in transistor size and GDDR-memory have been able to keep NVIDIA far ahead of team AMD no matter what AMD has attempted to try and make their niche of late - Team Green just comes out with their next architecture and destroys the niche AMD attempted to take away from them.
 
